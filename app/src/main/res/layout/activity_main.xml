@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.sharedemo.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/wa"
+
+        android:text="Hello World!" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/wa"
+
+        android:text="adasdasdasdasdasdasdsadas山东肥城撒旦是发生撒法撒旦是地方飞洒的发生的法师法撒旦发生的飞洒的发生地方撒地方撒地方撒地方撒旦法法师大法撒旦法撒旦发送到发送到方式大发送到发送到发送到发送到发送到发送到发送到发送到法撒旦法撒旦撒旦发送到发送飞洒发生的撒打算打算打算的撒打算的撒的撒打算的撒的撒的撒对撒大神大神大神大撒大实打实的到发送到发送到法撒旦法撒旦发生的飞洒的发生地方个撒大股东为法规地方好不够地方dsadsadsadsadasdsadsadsadsadsadsad World!" />
+</LinearLayout>
