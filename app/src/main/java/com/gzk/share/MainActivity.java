@@ -1,4 +1,4 @@
-package com.example.sharedemo;
+package com.gzk.share;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

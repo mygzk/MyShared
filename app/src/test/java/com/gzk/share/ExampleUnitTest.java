@@ -1,4 +1,4 @@
-package com.example.sharedemo;
+package com.gzk.share;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.sharedemo;
+package com.gzk.share;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
